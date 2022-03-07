@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/revelation/static/css/main.ad9239e1.chunk.css",
+    "main.js": "/revelation/static/js/main.faed8608.chunk.js",
+    "main.js.map": "/revelation/static/js/main.faed8608.chunk.js.map",
+    "runtime-main.js": "/revelation/static/js/runtime-main.b31ec351.js",
+    "runtime-main.js.map": "/revelation/static/js/runtime-main.b31ec351.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/revelation/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.cda06539.chunk.js": "/revelation/static/js/2.cda06539.chunk.js",
+    "static/js/2.cda06539.chunk.js.map": "/revelation/static/js/2.cda06539.chunk.js.map",
+    "index.html": "/revelation/index.html",
+    "static/css/2.d8cb5cde.chunk.css.map": "/revelation/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.ad9239e1.chunk.css.map": "/revelation/static/css/main.ad9239e1.chunk.css.map",
+    "static/js/2.cda06539.chunk.js.LICENSE.txt": "/revelation/static/js/2.cda06539.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b31ec351.js",
+    "static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.cda06539.chunk.js",
+    "static/css/main.ad9239e1.chunk.css",
+    "static/js/main.faed8608.chunk.js"
+  ]
+}
