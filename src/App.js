@@ -1,12 +1,13 @@
 //--------------- Tester Form -------------
 import React from "react";
-import Home3 from './Modernist/Home3';
+import Home from './Psd Data/REVELATION/Home';  // 1st Psd Relevation
+
 
 
 const App = () => {
   return (
     <>
-      <Home3 />
+      <Home />
     </>
   )
 }
